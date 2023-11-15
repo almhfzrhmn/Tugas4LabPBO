@@ -1,0 +1,3 @@
+interface TindakanMedis {
+    void lakukanTindakan();
+}
