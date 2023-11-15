@@ -1,0 +1,3 @@
+interface CatatanMedis {
+    void tambahCatatan();
+}

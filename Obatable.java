@@ -1,0 +1,3 @@
+interface Obatable {
+    void beriObat();
+}
